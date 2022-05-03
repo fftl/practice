@@ -1,2 +1,24 @@
-Stack.java
- Stack
+strategypattern/behaviors/FlyRocketPowered.java
+ strategypattern.behaviors.FlyRocketPowered
+strategypattern/behaviors/FlyNoWay.java
+ strategypattern.behaviors.FlyNoWay
+strategypattern/behaviors/FlyWithWings.java
+ strategypattern.behaviors.FlyWithWings
+strategypattern/FlyBehavior.java
+ strategypattern.FlyBehavior
+strategypattern/behaviors/Quack.java
+ strategypattern.behaviors.Quack
+strategypattern/QuackBehavior.java
+ strategypattern.QuackBehavior
+strategypattern/behaviors/MuteQuack.java
+ strategypattern.behaviors.MuteQuack
+strategypattern/Duck.java
+ strategypattern.Duck
+strategypattern/MallardDuck.java
+ strategypattern.MallardDuck
+strategypattern/ToyDuck.java
+ strategypattern.ToyDuck
+strategypattern/MiniDuckSimulator.java
+ strategypattern.MiniDuckSimulator
+strategypattern/behaviors/Squeak.java
+ strategypattern.behaviors.Squeak
