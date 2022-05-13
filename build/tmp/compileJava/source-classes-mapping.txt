@@ -22,3 +22,5 @@ strategypattern/MiniDuckSimulator.java
  strategypattern.MiniDuckSimulator
 strategypattern/behaviors/Squeak.java
  strategypattern.behaviors.Squeak
+LocationDistance.java
+ LocationDistance
